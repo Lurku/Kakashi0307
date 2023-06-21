@@ -11,4 +11,4 @@ Discord: @lurkuu
 
 🔗 https://lurker.netlify.app
 
-![](https://count.getloli.com/get/@Lurku?theme=gelbooru-h)
+![](https://count.getloli.com/get/@Lurku?theme=gelbooru)
