@@ -1,5 +1,5 @@
 
-<h1 style="text-align: center;">**Lurker**</h1>
+<h1 style="text-align: center;">Lurker</h1>
 
 <h3 style="text-align: center;">Lurku/Kakashi</h3>
 
