@@ -32,6 +32,8 @@ Started coding back in 2017 though I was just messing around, started actual pro
 
 I ain't active on github, I know :(
 
-[![Spotify](https://kakashi0307.vercel.app/api/spotify)](https://open.spotify.com/user/13vxh61m2o4xkfgcot0zkgi5j)
+<h2>Currently Listening</h2>
+
+[![Spotify](https://spotify-for-readme-sigma.vercel.app/api/spotify)](https://open.spotify.com/user/13vxh61m2o4xkfgcot0zkgi5j)
 
 ![](https://count.getloli.com/get/@Lurku?theme=gelbooru)
