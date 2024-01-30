@@ -33,7 +33,11 @@ Started coding back in 2017 though I was just messing around, started actual pro
 I ain't active on github, I know :(
 
 <h2>Currently Listening</h2>
-
+<div align=center>
+ 
 [![Spotify](https://spotify-for-readme-sigma.vercel.app/api/spotify)](https://open.spotify.com/user/13vxh61m2o4xkfgcot0zkgi5j)
 
+<h3>Profile views</h3>
+
 ![](https://count.getloli.com/get/@Lurku?theme=gelbooru)
+</div>
