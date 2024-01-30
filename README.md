@@ -20,7 +20,7 @@ Started coding back in 2017 though I was just messing around, started actual pro
 
 <h2>Github Stats</h2>
 <a href="https://github.com/Lurku?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lurku&hide=contribs,prs&show_icons=true&theme=dark&bg_color=00000000&ring_color=00ff00&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lurku&show_icons=true&theme=dark&bg_color=00000000&ring_color=00ff00&hide_border=true" />
 </a>
 <a href="https://www.youtube.com/watch?v=fC7oUOUEEi4">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lurku&size_weight=0.5&count_weight=0.5&theme=dark&bg_color=00000000&hide_border=true&layout=compact" />
